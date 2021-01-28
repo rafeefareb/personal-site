@@ -1,0 +1,195 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #276678;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #276678;
+  line-height: 4;
+  font-size: 2.2rem;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #96bb7c;
+  font-size: 1.5rem;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #d3e0ea;
+
+  border-width: 5px;
+  width: 7%;
+  margin-top: 20px;
+}
+
+p{
+  margin-bottom: 30px;
+  line-height: 2;
+  padding-bottom: 10px;
+}
+
+
+
+.intro{
+  width: 30%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.conc{
+  width: 30%;
+  margin: auto;
+}
+
+.work {
+  color: #1a508b;
+}
+
+.footer-link {
+  color: #40514E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #1687a7;
+}
+
+.program {
+  color: #0779e4;
+}
+
+.glove {
+  color: #4cbbb9;
+}
+
+.cam {
+  color: #ffd31d;
+}
+
+.programmer {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #d3e0ea;
+  position: relative;
+  height: 657px;
+  padding-top: 75px;
+  width: 100%;
+
+}
+
+.bottom-container{
+  background-color: #d3e0ea;
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.pfp {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  padding-top: 10px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  padding-bottom: 20px;
+
+}
+
+.Programming {
+  border-radius: 100%;
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Gloves {
+  border-radius: 100%;
+  width: 35%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.camera {
+  border-radius: 100%;
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Piano {
+  border-radius: 100%;
+  width: 35%;
+  float: right;
+  margin-left: 30px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain{
+  width: 1000px;
+
+
+}
+
+.BUTTON {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: white;
+   font-family: Courier New;
+   font-size: 29px;
+   padding: 20px;
+   background-color: #1687a7;
+   text-shadow: 3px 0 9px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.copyright{
+  font-size: 0.75rem;
+  margin-bottom: auto;
+  margin-top: 30px
+}
